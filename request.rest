@@ -1,0 +1,19 @@
+GET http://localhost:8080/api/hello HTTP/1.1
+
+###
+
+GET http://localhost:8080/api/test/1 HTTP/1.1
+
+###
+
+GET http://localhost:8080/api/test?param=hello HTTP/1.1
+
+###
+
+POST http://localhost:8080/api/post HTTP/1.1
+
+伊地知虹夏
+
+###
+
+POST http://localhost:8080/api/foo HTTP/1.1
